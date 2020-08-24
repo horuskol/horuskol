@@ -24,9 +24,9 @@ Packages for PHP and JavaScript:
 GitHub: https://github.com/SavvyWombat  
 Website: https://savvywombat.com.au/
 
-## Experiments
+## apps.horuskol.net
 
-I also have a few experimental apps 
+I also have a website that hosts a numbers of apps I wrote self-education and experimentation: https://apps.horuskol.net 
 
 ## Social
 
