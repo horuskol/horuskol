@@ -1,7 +1,5 @@
 # Hi! I'm HorusKol
 
-![](https://img.shields.io/badge/OS-KDE/Ubuntu/Linux-informational?style=for-the-badge&logo=KDE&logoColor=white&color=1D99F3)
-![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=for-the-badge&logo=JetBrains&logoColor=white&color=000000)  
 ![](https://img.shields.io/badge/-PHP-informational?style=for-the-badge&logo=PHP&logoColor=white&labelColor=777BB4&color=181827)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=181827)
 ![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=181827)
@@ -9,7 +7,9 @@
 ![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=181827)  
 ![](https://img.shields.io/badge/-Laravel-informational?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=FF2D20&color=181827)
 ![](https://img.shields.io/badge/-Vue.js-informational?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=4FC08D&color=181827)
-![](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=38B2AC&color=181827)
+![](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=38B2AC&color=181827)  
+![](https://img.shields.io/badge/-KDE/Ubuntu/Linux-informational?style=for-the-badge&logo=KDE&logoColor=white&labelColor=1D99F3&color=181827)
+![](https://img.shields.io/badge/-PHPStorm-informational?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=000000&color=181827)  
 
 ## Social
 
