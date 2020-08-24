@@ -11,6 +11,23 @@
 ![](https://img.shields.io/badge/-KDE/Ubuntu/Linux-informational?style=plastic&logo=KDE&logoColor=white&labelColor=1D99F3&color=181827)
 ![](https://img.shields.io/badge/-PHPStorm-informational?style=plastic&logo=JetBrains&logoColor=white&labelColor=000000&color=181827)  
 
+I've been working in PHP and JavaScript since 2001. Here's what I'm currently working on:
+
+## [![ViewCrafter](https://viewcrafter.com/img/viewcrafter-title.png)](https://viewcrafter.com/)
+
+This is my current main project - a development tool to improve integration and collaboration between code and design.
+
+## SavvyWombat
+
+Packages for PHP and JavaScript:
+
+GitHub: https://github.com/SavvyWombat  
+Website: https://savvywombat.com.au/
+
+## Experiments
+
+I also have a few experimental apps 
+
 ## Social
 
 [![](https://img.shields.io/badge/-dev.to-informational?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A)](https://dev.to/horus_kol)
