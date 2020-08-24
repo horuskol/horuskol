@@ -19,14 +19,14 @@ This is my current main project - a development tool to improve integration and 
 
 ## SavvyWombat
 
-Packages for PHP and JavaScript:
+Packages for PHP and JavaScript.
 
 GitHub: https://github.com/SavvyWombat  
 Website: https://savvywombat.com.au/
 
-## apps.horuskol.net
+## HorusKol
 
-I also have a website that hosts a number of games and apps that I have written for self-education and experimentation: https://apps.horuskol.net. All of these apps are open-sourced.
+I have a blog at https://horuskol.net where I publish articles on development and programming. I also have a website that hosts a number of games and apps that I have written for self-education and experimentation https://apps.horuskol.net.
 
 
 ## Social
