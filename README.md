@@ -34,12 +34,10 @@ I have a blog at https://horuskol.net where I publish articles on development an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F7DF1E&color=181827)
 ![CSS](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6&color=181827)
 ![HTML](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26&color=181827)
-![MySQL](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=181827)
-
+![MySQL](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1&color=181827)  
 ![Laravel](https://img.shields.io/badge/-Laravel-informational?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=FF2D20&color=181827) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-informational?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=4FC08D&color=181827) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=38B2AC&color=181827)
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&labelColor=38B2AC&color=181827)  
 ![KDE/Ubuntu/Linux](https://img.shields.io/badge/-KDE/Ubuntu/Linux-informational?style=for-the-badge&logo=KDE&logoColor=white&labelColor=1D99F3&color=181827)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-informational?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=000000&color=181827)
 
