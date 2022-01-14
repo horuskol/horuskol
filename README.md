@@ -25,7 +25,6 @@ I have a blog at https://horuskol.net where I publish articles on development an
 ## Social
 
 [![](https://img.shields.io/badge/-dev.to-informational?style=for-the-badge&logo=dev.to&logoColor=white&color=0A0A0A)](https://dev.to/horus_kol)
-[![](https://img.shields.io/badge/-Medium-informational?style=for-the-badge&logo=Medium&logoColor=white&color=12100E)](https://medium.com/@horuskol)
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/horus_kol)
 
 ## Tech
