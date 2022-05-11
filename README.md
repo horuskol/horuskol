@@ -4,15 +4,9 @@ I've been working in PHP and JavaScript since 2001, and programming for a bit lo
 
 Here's what I'm currently working on:
 
-## <img src="https://viewcrafter.com/img/viewcrafter-title-66.webp" alt="ViewCrafter"/>
-
-This is my current main project - a development tool to improve integration and collaboration between code and design.
-
-https://viewcrafter.com
-
 ## SavvyWombat
 
-Packages for PHP and JavaScript.
+Tools and open source packages I've made to help other developers solve problems and create awesome web applications.
 
 GitHub: https://github.com/SavvyWombat  
 Website: https://savvywombat.com.au/
