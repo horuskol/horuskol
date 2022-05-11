@@ -2,8 +2,6 @@
 
 I've been working in PHP and JavaScript since 2001, and programming for a bit longer than that.
 
-Here's what I'm currently working on:
-
 ## SavvyWombat
 
 Tools and open source packages I've made to help other developers solve problems and create awesome web applications.
@@ -14,7 +12,6 @@ Website: https://savvywombat.com.au/
 ## HorusKol
 
 I have a blog at https://horuskol.net where I publish articles on development and programming. I also have a website that hosts a number of games and apps that I have written for self-education and experimentation https://apps.horuskol.net.
-
 
 ## Social
 
